@@ -10,10 +10,31 @@ This is a Big List of known third party resources for Platform.sh. These resourc
 
 ## Examples
 
-Platform.sh lists maintained examples on its Github page, with some cross-referencing from http://docs.platform.sh. Examples listed below may be out of date or unmaintained.
+Platform.sh lists maintained examples on its Github page, with some cross-referencing from http://docs.platform.sh. Examples listed below may be out-of-date or unmaintained. Use at your own risk.
 
+### NodeJS
+
+* **MEAN stack** example https://github.com/OriPekelman/platformsh-example-mean
+
+### Python
+
+* Python Flask using gunicorn https://github.com/etoulas/platformsh-example-flask
+
+### PHP
+
+* **Akeneo** example https://github.com/maciejzgadzaj/akeneo-on-platformsh-example
 * Simple configuration to deploy **API Platform with the ReactJS** admin client https://github.com/GuGuss/platformsh-api-platform-admin
+* **Backdrop** example https://github.com/gmoigneu/platformsh-example-backdrop
 * **Headless Drupal 8 with Angular** on Platform.sh https://github.com/GuGuss/headless-drupal8-platformsh
+* **Laravel** example https://github.com/JGrubb/platformsh-laravel-example
+* **Moodle** example https://github.com/JGrubb/platform-sh-moodle-example
+* **Silex** example https://github.com/JGrubb/platformsh-silex-intro
+* **Silverstripe** example https://github.com/gmoigneu/platformsh-example-silverstripe
+* **Thunder** example, maintained by the MD Systems team https://github.com/md-systems/platformsh-example-thunder
+
+### Ruby
+
+* **Jekyll** example https://github.com/JGrubb/platformsh-jekyll
 
 ## Tools
 
@@ -22,6 +43,8 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 * A small tool from Hanoii https://github.com/hanoii/drocal
 * An adapter from platform.sh webhook to **slack** incoming webhook that can be hosted on a platform.sh app https://github.com/hanoii/platformsh2slack
 * **Ansible** playbook for setting up Vagrant and VirtualBox for use with a Platform.sh project https://github.com/DurableDrupal/ansible-vm-platformsh
+* Another **Ansible** setup https://github.com/mglaman/platformsh-vagrant
+* Script to **sync a Drupal site** from Production to Local https://github.com/pjcdawkins/platformsh-sync
 
 ## Archive
 
