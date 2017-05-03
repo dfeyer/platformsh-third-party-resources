@@ -13,6 +13,7 @@ This is a Big List of known third party resources for Platform.sh. These resourc
 Platform.sh lists maintained examples on its Github page, with some cross-referencing from http://docs.platform.sh. Examples listed below may be out of date or unmaintained.
 
 * Simple configuration to deploy API Platform with the ReactJS admin client https://github.com/GuGuss/platformsh-api-platform-admin
+* Headless Drupal 8 with Angular on Platform.sh https://github.com/GuGuss/headless-drupal8-platformsh
 
 ## Tools
 
