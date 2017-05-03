@@ -38,6 +38,7 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 
 ## Integrations
 
+* Scripts for GitLab https://gist.github.com/pjcdawkins/0b3f7a6da963c129030961f0947746c4
 * Scrutinizer CI https://scrutinizer-ci.com/docs/guides/deploying/platform_sh
 * An adapter from platform.sh webhook to **slack** incoming webhook that can be hosted on a platform.sh app https://github.com/hanoii/platformsh2slack
 
