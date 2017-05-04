@@ -2,6 +2,8 @@
 
 This is a Big List of known third party resources for Platform.sh. These resources are not published or vetted by Platform.sh, but may be useful for people working with the platform.
 
+This list is maintained by @xtfer. Pull Requests welcome.
+
 ## Blogs
 
 * "The future of the PHP PaaS is here: Our journey to Platform.sh", Marcus Hausammann, https://www.cloud-solutions.net/en/blog/entry/cs-tech/the-future-of-the-php-paas-is-here-our-journey-to-platform-sh
