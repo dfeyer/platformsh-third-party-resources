@@ -10,6 +10,7 @@ This is a Big List of known third party resources for Platform.sh. These resourc
 
 * JohnataJMO's excellent guide to **Web Development using Platform.sh** https://github.com/JohnatasJMO/platformsh-development-workflow
 * How to connect to your MySQL database using Sequel Pro https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database/
+* How to set up **XDebug** https://ghosty.co.uk/2015/09/debugging-on-platform-sh/
 
 ### Drupal
 
