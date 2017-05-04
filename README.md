@@ -18,6 +18,8 @@ This list is maintained by @xtfer. Pull Requests welcome.
 * How Platform.sh can simplify your contribution workflow on GitHub https://medium.com/akeneo-labs/how-platform-sh-can-simplify-your-contribution-workflow-on-github-6e2a557a1bcc by Mickaël Andrieu from Akeneo
 * **A guide in French** on deploying to Platform.sh http://thomas-asnar.github.io/platform-sh-orange-cloud/ by Thomas Asnar [FR]
 * Nacho Digital has a guide on **moving an existing site** to Platform.sh http://www.nachodigital.com.ar/content/moving-existing-site-platformsh
+* How to set up **SSL with Cloudflare** https://www.ignoredbydinosaurs.com/posts/307-setting-up-ssl-on-your-platformsh-site-with-cloudflare
+* Introduction to **using PostgreSQL** https://www.ignoredbydinosaurs.com/posts/296-postgres-on-platform
 
 ### Drupal
 
