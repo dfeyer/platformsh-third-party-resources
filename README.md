@@ -10,15 +10,14 @@ This list is maintained by @xtfer. Pull Requests welcome.
 
 ## Guides
 
-* JohnataJMO's excellent guide to **Web Development using Platform.sh** https://github.com/JohnatasJMO/platformsh-development-workflow
-* How to connect to your MySQL database using Sequel Pro https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database/
-* All the stuff you need for a pro-dev-flow using platform.sh as your deploy target https://github.com/thinktandem/platform-workflow-demo again by https://www.thinktandem.io
+* How to **connect to your MySQL database** using Sequel Pro https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database/
+* All the stuff you need for a **pro-dev-flow using platform.sh** as your deploy target https://github.com/thinktandem/platform-workflow-demo again by https://www.thinktandem.io
 * How to set up **XDebug** https://ghosty.co.uk/2015/09/debugging-on-platform-sh/
 * Official **Symfony** documentation on deploying to Platform.sh http://symfony.com/doc/current/deployment/platformsh.html
-* Official **Sylius** documenation on deploying to Platform.sh http://docs.sylius.org/en/latest/cookbook/platform-sh.html
+* Official **Sylius** documentation on deploying to Platform.sh http://docs.sylius.org/en/latest/cookbook/platform-sh.html
 * How Platform.sh can simplify your contribution workflow on GitHub https://medium.com/akeneo-labs/how-platform-sh-can-simplify-your-contribution-workflow-on-github-6e2a557a1bcc by Mickaël Andrieu from Akeneo
-* A guide in French on deploying to Platform.sh http://thomas-asnar.github.io/platform-sh-orange-cloud/ by Thomas Asnar [FR]
-* Nacho Digital has a guide on moving an existing site to Platform.sh http://www.nachodigital.com.ar/content/moving-existing-site-platformsh
+* **A guide in French** on deploying to Platform.sh http://thomas-asnar.github.io/platform-sh-orange-cloud/ by Thomas Asnar [FR]
+* Nacho Digital has a guide on **moving an existing site** to Platform.sh http://www.nachodigital.com.ar/content/moving-existing-site-platformsh
 
 ### Drupal
 
@@ -35,8 +34,8 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 
 ### Python
 
-* Python Flask using gunicorn https://github.com/etoulas/platformsh-example-flask
-* Odoo - Open Source ERP and CRM https://github.com/OriPekelman/platformsh-example-odoo
+* Python **Flask using gunicorn** https://github.com/etoulas/platformsh-example-flask
+* **Odoo** - Open Source ERP and CRM https://github.com/OriPekelman/platformsh-example-odoo
 
 ### PHP
 
@@ -48,7 +47,6 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 * **Moodle** example https://github.com/JGrubb/platform-sh-moodle-example
 * **Silex** example https://github.com/JGrubb/platformsh-silex-intro
 * **Silverstripe** example https://github.com/gmoigneu/platformsh-example-silverstripe
-* Instructions for setting up **Symfony** http://symfony.com/doc/current/deployment/platformsh.html
 * **Thunder** example, maintained by the MD Systems team https://github.com/md-systems/platformsh-example-thunder
 * **WooCommerce** example by Liip https://github.com/liip/woocommerce-demo 
 * **Mouf framework**  example by https://github.com/xhuberty/RhMachine by The Coding Machine
@@ -60,8 +58,8 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 
 ## Integrations
 
-* Scripts for GitLab https://gist.github.com/pjcdawkins/0b3f7a6da963c129030961f0947746c4
-* Scrutinizer CI https://scrutinizer-ci.com/docs/guides/deploying/platform_sh
+* Scripts for **GitLab** https://gist.github.com/pjcdawkins/0b3f7a6da963c129030961f0947746c4
+* **Scrutinizer CI** https://scrutinizer-ci.com/docs/guides/deploying/platform_sh
 * An adapter from platform.sh webhook to **slack** incoming webhook that can be hosted on a platform.sh app https://github.com/hanoii/platformsh2slack
 
 ## Tools
