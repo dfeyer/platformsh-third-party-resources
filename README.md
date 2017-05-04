@@ -60,6 +60,7 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 * Another **Ansible** setup https://github.com/mglaman/platformsh-vagrant
 * Script to **sync a Drupal site** from Production to Local https://github.com/pjcdawkins/platformsh-sync
 * A **Docker** image with the Platform.sh CLI on it https://github.com/maxc0d3r/docker-platformshcli
+* Some tips on using Platform.sh with **DrupalVM** https://github.com/geerlingguy/drupal-vm/issues/984
 
 ## Archive
 
