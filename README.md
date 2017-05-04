@@ -7,6 +7,7 @@ This list is maintained by @xtfer. Pull Requests welcome.
 ## Blogs
 
 * "The future of the PHP PaaS is here: Our journey to Platform.sh", Marcus Hausammann, https://www.cloud-solutions.net/en/blog/entry/cs-tech/the-future-of-the-php-paas-is-here-our-journey-to-platform-sh
+* An **introduction to Platform.sh** from Chris Ward https://www.sitepoint.com/first-look-platform-sh-development-deployment-saas/
 
 ## Guides
 
