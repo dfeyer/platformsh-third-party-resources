@@ -11,6 +11,10 @@ This is a Big List of known third party resources for Platform.sh. These resourc
 * JohnataJMO's excellent guide to **Web Development using Platform.sh** https://github.com/JohnatasJMO/platformsh-development-workflow
 * How to connect to your MySQL database using Sequel Pro https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database/
 
+### Drupal
+
+* Modifying distribution make files for Platform.sh https://www.nickvahalik.com/blog-entry/modifying-distribution-makefiles-within-your-own-project-makefile-platformsh
+
 ## Examples
 
 Platform.sh lists maintained examples on its Github page, with some cross-referencing from http://docs.platform.sh. Examples listed below may be out-of-date or unmaintained. Use at your own risk.
