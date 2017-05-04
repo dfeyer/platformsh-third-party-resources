@@ -4,9 +4,12 @@ This is a Big List of known third party resources for Platform.sh. These resourc
 
 ## Blogs
 
+* "The future of the PHP PaaS is here: Our journey to Platform.sh", Marcus Hausammann, https://www.cloud-solutions.net/en/blog/entry/cs-tech/the-future-of-the-php-paas-is-here-our-journey-to-platform-sh
+
 ## Guides
 
 * JohnataJMO's excellent guide to **Web Development using Platform.sh** https://github.com/JohnatasJMO/platformsh-development-workflow
+* How to connect to your MySQL database using Sequel Pro https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database/
 
 ## Examples
 
@@ -30,6 +33,7 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 * **Moodle** example https://github.com/JGrubb/platform-sh-moodle-example
 * **Silex** example https://github.com/JGrubb/platformsh-silex-intro
 * **Silverstripe** example https://github.com/gmoigneu/platformsh-example-silverstripe
+* Instructions for setting up **Symfony** http://symfony.com/doc/current/deployment/platformsh.html
 * **Thunder** example, maintained by the MD Systems team https://github.com/md-systems/platformsh-example-thunder
 
 ### Ruby
