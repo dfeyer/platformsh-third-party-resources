@@ -17,6 +17,7 @@ This list is maintained by @xtfer. Pull Requests welcome.
 ### Drupal
 
 * Modifying distribution make files for Platform.sh https://www.nickvahalik.com/blog-entry/modifying-distribution-makefiles-within-your-own-project-makefile-platformsh
+* Platform.sh [Drupal 8 Development Workflow](https://github.com/JohnatasJMO/platformsh-development-workflow)
 
 ## Examples
 
