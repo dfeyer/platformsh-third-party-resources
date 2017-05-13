@@ -75,6 +75,7 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 * Script to **sync a Drupal site** from Production to Local https://github.com/pjcdawkins/platformsh-sync
 * A **Docker** image with the Platform.sh CLI on it https://github.com/maxc0d3r/docker-platformshcli
 * Some tips on using Platform.sh with **DrupalVM** https://github.com/geerlingguy/drupal-vm/issues/984
+* Matt Pope's [Platform.sh automated mysql and files backup script](https://bitbucket.org/snippets/kaypro4/gnB4E)
 
 ## Archive
 
