@@ -29,7 +29,7 @@ This list is maintained by @xtfer. Pull Requests welcome.
 
 ### Magento
 
-* [Deploying Magento 2 with Redis on Platform.sh](https://rafaelstz.github.io/magento2/Deploying-Magento2-Redis-Platformsh.html) by [@rafaelcgstz](https://twitter.com/rafaelcgstz)*
+* [Deploying Magento 2 with Redis on Platform.sh](https://rafaelstz.github.io/magento2/Deploying-Magento2-Redis-Platformsh.html) by [@rafaelcgstz](https://twitter.com/rafaelcgstz)
 
 ## Examples
 
