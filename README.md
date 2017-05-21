@@ -6,21 +6,21 @@ This list is maintained by @xtfer. Pull Requests welcome.
 
 ## Blogs
 
-* "The future of the PHP PaaS is here: Our journey to Platform.sh", Marcus Hausammann, https://www.cloud-solutions.net/en/blog/entry/cs-tech/the-future-of-the-php-paas-is-here-our-journey-to-platform-sh
-* An **introduction to Platform.sh** from Chris Ward https://www.sitepoint.com/first-look-platform-sh-development-deployment-saas/
+* "[The future of the PHP PaaS is here: Our journey to Platform.sh](https://www.cloud-solutions.net/en/blog/entry/cs-tech/the-future-of-the-php-paas-is-here-our-journey-to-platform-sh)", by Marcus Hausammann
+* An [introduction to Platform.sh](https://www.sitepoint.com/first-look-platform-sh-development-deployment-saas/) from Chris Ward 
 
 ## Guides
 
-* How to **connect to your MySQL database** using Sequel Pro https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database/
-* All the stuff you need for a **pro-dev-flow using platform.sh** as your deploy target https://github.com/thinktandem/platform-workflow-demo again by https://www.thinktandem.io
-* How to set up **XDebug** https://ghosty.co.uk/2015/09/debugging-on-platform-sh/
-* Official **Symfony** documentation on deploying to Platform.sh http://symfony.com/doc/current/deployment/platformsh.html
-* Official **Sylius** documentation on deploying to Platform.sh http://docs.sylius.org/en/latest/cookbook/platform-sh.html
-* How Platform.sh can simplify your contribution workflow on GitHub https://medium.com/akeneo-labs/how-platform-sh-can-simplify-your-contribution-workflow-on-github-6e2a557a1bcc by Mickaël Andrieu from Akeneo
-* **A guide in French** on deploying to Platform.sh http://thomas-asnar.github.io/platform-sh-orange-cloud/ by Thomas Asnar [FR]
-* Nacho Digital has a guide on **moving an existing site** to Platform.sh http://www.nachodigital.com.ar/content/moving-existing-site-platformsh
-* How to set up **SSL with Cloudflare** https://www.ignoredbydinosaurs.com/posts/307-setting-up-ssl-on-your-platformsh-site-with-cloudflare
-* Introduction to **using PostgreSQL** https://www.ignoredbydinosaurs.com/posts/296-postgres-on-platform
+* How to [connect to your MySQL database](https://www.thinktandem.io/blog/2017/03/03/connecting-to-a-remote-platform-sh-database) using Sequel Pro 
+* All the stuff you need for a [pro-dev-flow using platform.sh](https://github.com/thinktandem/platform-workflow-demo) as your deploy target  again by https://www.thinktandem.io
+* How to [set up XDebug](https://ghosty.co.uk/2015/09/debugging-on-platform-sh/) 
+* Official [Symfony documentation](http://symfony.com/doc/current/deployment/platformsh.html) on deploying to Platform.sh 
+* Official [Sylius](http://docs.sylius.org/en/latest/cookbook/platform-sh.html) documentation on deploying to Platform.sh
+* How Platform.sh can [simplify your contribution workflow on GitHub](https://medium.com/akeneo-labs/how-platform-sh-can-simplify-your-contribution-workflow-on-github-6e2a557a1bcc) by Mickaël Andrieu from Akeneo
+* [A guide in French](http://thomas-asnar.github.io/platform-sh-orange-cloud/) on deploying to Platform.sh by Thomas Asnar [FR]
+* Nacho Digital has a guide on [moving an existing site](http://www.nachodigital.com.ar/content/moving-existing-site-platformsh) to Platform.sh 
+* How to set up [SSL with Cloudflare](https://www.ignoredbydinosaurs.com/posts/307-setting-up-ssl-on-your-platformsh-site-with-cloudflare)
+* Introduction to [using PostgreSQL](https://www.ignoredbydinosaurs.com/posts/296-postgres-on-platform) 
 
 ### Drupal
 
