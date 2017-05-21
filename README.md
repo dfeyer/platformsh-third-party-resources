@@ -24,7 +24,7 @@ This list is maintained by @xtfer. Pull Requests welcome.
 
 ### Drupal
 
-* Modifying distribution make files for Platform.sh https://www.nickvahalik.com/blog-entry/modifying-distribution-makefiles-within-your-own-project-makefile-platformsh
+* [Modifying distribution make files for Platform.sh](https://www.nickvahalik.com/blog-entry/modifying-distribution-makefiles-within-your-own-project-makefile-platformsh) 
 * Platform.sh [Drupal 8 Development Workflow](https://github.com/JohnatasJMO/platformsh-development-workflow) by @JohnatasJMO
 
 ## Examples
@@ -33,12 +33,16 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 
 ### NodeJS
 
-* **MEAN stack** example https://github.com/OriPekelman/platformsh-example-mean
+| Link | Date added
+-------|------|-----------
+MEAN stack|https://github.com/OriPekelman/platformsh-example-mean|May 2017
 
 ### Python
 
-* Python **Flask using gunicorn** https://github.com/etoulas/platformsh-example-flask
-* **Odoo** - Open Source ERP and CRM https://github.com/OriPekelman/platformsh-example-odoo
+| Link | Date added
+-------|------|-----------
+Python **Flask using gunicorn**|https://github.com/etoulas/platformsh-example-flask|May 2017
+**Odoo** Open Source ERP and CRM|https://github.com/OriPekelman/platformsh-example-odoo|May 2017
 
 ### PHP
 
