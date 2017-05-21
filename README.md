@@ -33,13 +33,13 @@ Platform.sh lists maintained examples on its Github page, with some cross-refere
 
 ### NodeJS
 
-| Link | Date added
+Topic  | Link | Date added
 -------|------|-----------
 MEAN stack|https://github.com/OriPekelman/platformsh-example-mean|May 2017
 
 ### Python
 
-| Link | Date added
+Topic  | Link | Date added
 -------|------|-----------
 Python **Flask using gunicorn**|https://github.com/etoulas/platformsh-example-flask|May 2017
 **Odoo** Open Source ERP and CRM|https://github.com/OriPekelman/platformsh-example-odoo|May 2017
