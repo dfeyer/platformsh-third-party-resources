@@ -33,40 +33,44 @@ This list is maintained by @xtfer. Pull Requests welcome.
 
 ## Examples
 
-Platform.sh lists maintained examples on its Github page, with some cross-referencing from http://docs.platform.sh. Examples listed below may be out-of-date or unmaintained. Use at your own risk.
+Platform.sh lists maintained examples on its Github page, with some cross-referencing from http://docs.platform.sh. Examples listed below could work fine, or may be out-of-date or unmaintained. Use at your own risk.
 
 ### NodeJS
 
-Topic  | Link | Date added
--------|------|-----------
-MEAN stack|https://github.com/OriPekelman/platformsh-example-mean|May 2017
+Framework  | Credit | Date added
+-----------|--------|-----------
+[MEAN stack](https://github.com/OriPekelman/platformsh-example-mean)|[@OriPekelman](https://github.com/OriPekelman)|May 2017
 
 ### Python
 
-Topic  | Link | Date added
--------|------|-----------
-Python **Flask using gunicorn**|https://github.com/etoulas/platformsh-example-flask|May 2017
-**Odoo** Open Source ERP and CRM|https://github.com/OriPekelman/platformsh-example-odoo|May 2017
+Framework  | Credit | Date added
+-----------|--------|-----------
+Python [**Flask using gunicorn**](https://github.com/etoulas/platformsh-example-flask)|[@etoulas](https://github.com/etoulas)|May 2017
+[**Odoo**](https://github.com/OriPekelman/platformsh-example-odoo) Open Source ERP and CRM|[@OriPekelman](https://github.com/OriPekelman)|May 2017
 
 ### PHP
 
-* **Akeneo** example https://github.com/maciejzgadzaj/akeneo-on-platformsh-example
-* Simple configuration to deploy **API Platform with the ReactJS** admin client https://github.com/GuGuss/platformsh-api-platform-admin
-* **Backdrop** example https://github.com/gmoigneu/platformsh-example-backdrop
-* **Headless Drupal 8 with Angular** on Platform.sh https://github.com/GuGuss/headless-drupal8-platformsh
-* **Laravel** example https://github.com/JGrubb/platformsh-laravel-example
-* **Moodle** example https://github.com/JGrubb/platform-sh-moodle-example
-* **Silex** example https://github.com/JGrubb/platformsh-silex-intro
-* **Silverstripe** example https://github.com/gmoigneu/platformsh-example-silverstripe
-* **Thunder** example, maintained by the MD Systems team https://github.com/md-systems/platformsh-example-thunder
-* **WooCommerce** example by Liip https://github.com/liip/woocommerce-demo 
-* **Mouf framework**  example by https://github.com/xhuberty/RhMachine by The Coding Machine
-* **Neos/Flow** example https://github.com/ttreeagency/neos-base-distribution by Dominique Feyer
-* **Neos/Flow** a more up-to-date (and very awesome) starting point https://github.com/DavidSporer/flow-neos-platformsh by David Sporer
+Framework  | Credit | Date added
+-----------|--------|-----------
+[**Akeneo** example](https://github.com/maciejzgadzaj/akeneo-on-platformsh-example)|[@maciejzgadzaj](https://github.com/maciejzgadzaj)|May 2017
+[**API Platform** with a **ReactJS** client](https://github.com/GuGuss/platformsh-api-platform-admin) admin |[@GuGuss](https://github.com/GuGuss)|May 2017
+[**Backdrop** example](https://github.com/gmoigneu/platformsh-example-backdrop)|[@gmoigneu](https://github.com/gmoigneu)|May 2017
+[**Headless Drupal 8 with Angular**](https://github.com/GuGuss/headless-drupal8-platformsh)|[@GuGuss](https://github.com/GuGuss)|May 2017
+[**Laravel** example](https://github.com/JGrubb/platformsh-laravel-example)|[@JGrubb](https://github.com/JGrubb)|May 2017
+[**Moodle** example](https://github.com/JGrubb/platform-sh-moodle-example)|[@JGrubb](https://github.com/JGrubb)|May 2017
+[**Mouf framework** example](https://github.com/xhuberty/RhMachine)|[The Coding Machine](https://github.com/xhuberty)|May 2017
+[**Neos/Flow** example](https://github.com/ttreeagency/neos-base-distribution)|Dominique Feyer|May 2017
+A more up-to-date (and very awesome) starting point for [**Neos/Flow**](https://github.com/DavidSporer/flow-neos-platformsh)|[@DavidSporer](https://github.com/DavidSporer)|May 2017
+[**Silex** example](https://github.com/JGrubb/platformsh-silex-intro)|[@JGrubb](https://github.com/JGrubb)|May 2017
+[**Silverstripe** example](https://github.com/gmoigneu/platformsh-example-silverstripe)|[@gmoigneu](https://github.com/gmoigneu)|May 2017
+[**Thunder** example](https://github.com/md-systems/platformsh-example-thunder)|[maintained by the MD Systems team](https://github.com/md-systems)|May 2017
+[**WooCommerce** example](https://github.com/liip/woocommerce-demo)|[@Liip](https://github.com/liip)|May 2017
 
 ### Ruby
 
-* **Jekyll** example https://github.com/JGrubb/platformsh-jekyll
+Framework  | Credit | Date added
+-----------|--------|-----------
+[**Jekyll** example](https://github.com/JGrubb/platformsh-jekyll)|[@JGrubb](https://github.com/JGrubb)|May 2017
 
 ## Integrations
 
