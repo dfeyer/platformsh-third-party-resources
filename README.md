@@ -62,6 +62,7 @@ Python **Flask using gunicorn**|https://github.com/etoulas/platformsh-example-fl
 * **WooCommerce** example by Liip https://github.com/liip/woocommerce-demo 
 * **Mouf framework**  example by https://github.com/xhuberty/RhMachine by The Coding Machine
 * **Neos/Flow** example https://github.com/ttreeagency/neos-base-distribution by Dominique Feyer
+* **Neos/Flow** a more up-to-date (and very awesome) starting point https://github.com/DavidSporer/flow-neos-platformsh by David Sporer
 
 ### Ruby
 
