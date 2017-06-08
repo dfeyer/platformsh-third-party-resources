@@ -80,17 +80,20 @@ Framework  | Credit | Date added
 * An adapter from platform.sh webhook to **slack** incoming webhook that can be hosted on a platform.sh app https://github.com/hanoii/platformsh2slack
 * How to [call the NewRelic API on deploy](https://github.com/platformsh/platformsh-docs/pull/536#issuecomment-295578188) (by @christopher-hopper)
 
-## Tools & Local development
+## Tools & development
+
+* **MySQL disk space** monitor https://github.com/galister/platformsh_mysqlmon
+* Create [**deploy commands you can run from composer**](https://github.com/dnunez24/platformsh-deploy-php), using Symfony 
+* A small tool from Hanoii https://github.com/hanoii/drocal
+* Script to **sync a Drupal site** from Production to Local https://github.com/pjcdawkins/platformsh-sync
+* Matt Pope's [Platform.sh automated mysql and files backup script](https://bitbucket.org/snippets/kaypro4/gnB4E)
+
+### Development environments
 
 * [**Beetbox**](http://beetbox.readthedocs.io/en/stable/), a pre-provisioned L*MP stack for Drupal and other frameworks, with Platform.sh CLI integration
-* **MySQL disk space** monitor https://github.com/galister/platformsh_mysqlmon
-* Library for creating **Symfony Console build and deploy steps** https://github.com/dnunez24/platformsh-deploy-php
-* A small tool from Hanoii https://github.com/hanoii/drocal
-* Another **Ansible** setup https://github.com/mglaman/platformsh-vagrant
-* Script to **sync a Drupal site** from Production to Local https://github.com/pjcdawkins/platformsh-sync
 * A **Docker** image with the Platform.sh CLI on it https://github.com/maxc0d3r/docker-platformshcli
 * Some tips on using Platform.sh with **DrupalVM** https://github.com/geerlingguy/drupal-vm/issues/984
-* Matt Pope's [Platform.sh automated mysql and files backup script](https://bitbucket.org/snippets/kaypro4/gnB4E)
+* [**Vagrant with Ansible**](https://github.com/mglaman/platformsh-vagrant)for Platform.sh, opinionated towards Drupal, by @mglaman.
 
 ### Ansible
 
