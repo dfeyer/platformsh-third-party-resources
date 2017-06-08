@@ -22,6 +22,10 @@ This list is maintained by @xtfer. Pull Requests welcome.
 * How to set up [SSL with Cloudflare](https://www.ignoredbydinosaurs.com/posts/307-setting-up-ssl-on-your-platformsh-site-with-cloudflare)
 * Introduction to [using PostgreSQL](https://www.ignoredbydinosaurs.com/posts/296-postgres-on-platform) 
 
+### Local development
+
+* [Beetbox](http://beetbox.readthedocs.io/en/stable/), a pre-provisioned L*MP stack for Drupal and other frameworks, with Platform.sh CLI integration
+
 ### Drupal
 
 * [Modifying distribution make files for Platform.sh](https://www.nickvahalik.com/blog-entry/modifying-distribution-makefiles-within-your-own-project-makefile-platformsh) 
