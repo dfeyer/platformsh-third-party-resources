@@ -3,7 +3,7 @@
 _Make an empty commit to force a redeploy_
 
 ```
-git commit --allow-empty -m'redeploy' && git push
+git commit --allow-empty -m 'redeploy' && git push
 ```
 
 _Test that an environment works before you merge it_
