@@ -21,3 +21,7 @@ or
 ```
 python -c 'import json,base64,os;print json.loads(base64.b64decode(os.getenv("PLATFORM_VARIABLES")))["FILE_VALUE"];' > file_name.txt
 ```
+_Pipe your Platform.sh DB into a local db_
+```
+$ platform db:dump --stdout | mysql -h mysql_hostname -u db_user db_name
+```
