@@ -60,7 +60,8 @@ Framework  | Credit | Date added
 [**Laravel** example](https://github.com/JGrubb/platformsh-laravel-example)|[@JGrubb](https://github.com/JGrubb)|May 2017
 [**Moodle** example](https://github.com/JGrubb/platform-sh-moodle-example)|[@JGrubb](https://github.com/JGrubb)|May 2017
 [**Mouf framework** example](https://github.com/xhuberty/RhMachine)|[The Coding Machine](https://github.com/xhuberty)|May 2017
-[**Neos/Flow** example](https://github.com/ttreeagency/neos-base-distribution)|Dominique Feyer|May 2017
+[**Flow Framework** support package](https://github.com/ttreeagency/FlowPlatformSh)|Dominique Feyer|Jul 2017
+[**Neos CMS** support package](https://github.com/ttreeagency/NeosPlatformSh)|Dominique Feyer|Jul 2017
 A more up-to-date (and very awesome) starting point for [**Neos/Flow**](https://github.com/DavidSporer/flow-neos-platformsh)|[@DavidSporer](https://github.com/DavidSporer)|May 2017
 [**Silex** example](https://github.com/JGrubb/platformsh-silex-intro)|[@JGrubb](https://github.com/JGrubb)|May 2017
 [**Silverstripe** example](https://github.com/gmoigneu/platformsh-example-silverstripe)|[@gmoigneu](https://github.com/gmoigneu)|May 2017
